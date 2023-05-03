@@ -1,0 +1,337 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=051trCkQfpVapBF2QVgpL0Hm-OftxJt1zzR-5Jgwj8A=",
+    "chef_name": "Jamie Oliver",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 2000,
+    "chef_bio": "Jamie Oliver is a British chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a pan, cook chopped bacon until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with the bacon.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Roast Chicken",
+        "ingredients": [
+          "whole chicken",
+          "lemon",
+          "garlic",
+          "thyme",
+          "butter",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. 2. Season chicken with salt and pepper. 3. Stuff the chicken cavity with lemon wedges, garlic cloves, and thyme sprigs. 4. Rub the chicken with softened butter. 5. Roast in the oven for 50-60 minutes or until the internal temperature reaches 165°F.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Fish and Chips",
+        "ingredients": [
+          "cod fillets",
+          "potatoes",
+          "flour",
+          "baking powder",
+          "beer",
+          "salt",
+          "vegetable oil"
+        ],
+        "cooking_method": "1. Cut potatoes into thick fries and soak in water for at least 30 minutes. 2. In a bowl, whisk together flour, baking powder, salt, and beer until smooth. 3. Heat vegetable oil in a deep pan to 375°F. 4. Dry potatoes with paper towels and fry until crispy and golden brown.",
+        "rating": 4.3
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://media.istockphoto.com/id/1298088270/photo/young-beautiful-smiling-woman-chef-with-arms-crossed-at-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=ipTCbxl_uVkSR9fnU2K1tdgXkRbxIiKgjdCswi4rHmg=",
+    "chef_name": "Nigella Lawson",
+    "years_of_experience": 25,
+    "number_of_recipes": 250,
+    "likes": 4000,
+    "chef_bio": "Nigella Lawson is a British food writer and TV personality known for her approachable and indulgent cooking style. She has written several bestselling cookbooks and hosted multiple cooking shows on TV. She is also an advocate for body positivity and has been vocal about her own struggles with body image.",
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Fudge Cake",
+        "ingredients": [
+          "butter",
+          "dark chocolate",
+          "sugar",
+          "eggs",
+          "flour",
+          "vanilla extract",
+          "salt"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Melt butter and dark chocolate in a double boiler. 3. In a separate bowl, whisk together sugar and eggs. 4. Add the melted chocolate mixture to the bowl and whisk until well combined.",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Lamb Shanks",
+        "ingredients": [
+          "lamb shanks",
+          "onions",
+          "carrots",
+          "celery",
+          "garlic",
+          "red wine",
+          "tomato paste",
+          "beef broth",
+          "rosemary",
+          "thyme",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Season lamb shanks with salt and pepper. 3. Heat oil in a Dutch oven and brown the lamb shanks on all sides. 4. Remove the lamb shanks and set aside. 5. Add chopped onions, carrots, celery, and garlic to the pot and cook until softened.",
+        "rating": 4.9
+      },
+      {
+        "recipe_name": "Pasta with Clams",
+        "ingredients": [
+          "linguine",
+          "clams",
+          "garlic",
+          "red pepper flakes",
+          "white wine",
+          "parsley",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook linguine according to package instructions. 2. In a pan, heat olive oil and add minced garlic and red pepper flakes. 3. Add cleaned clams to the pan and cook until they start to open.",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://media.istockphoto.com/id/1217012868/photo/handsome-young-african-chef-standing-in-professional-kitchen-in-restaurant-preparing-a-meal.jpg?b=1&s=170667a&w=0&k=20&c=pcVtkj_n-iKi8xbb5NylgStFk4zN2EF9pYmvZKd-Kno=",
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "number_of_recipes": 300,
+    "likes": 5000,
+    "chef_bio": "Gordon Rams ay is a British chef, restaurateur, writer, and television personality. He is known for his fiery temper and no-nonsense approach to cooking, which has earned him both praise and criticism.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+          "beef tenderloin",
+          "puff pastry",
+          "prosciutto",
+          "mushrooms",
+          "shallots",
+          "garlic",
+          "thyme",
+          "egg",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. 2. Season beef tenderloin with salt and pepper. 3. Heat oil in a pan and sear the beef on all sides until browned. 4. Remove the beef from the pan and let it cool. 5. In the same pan, sauté sliced mushrooms, chopped shallots, minced garlic, and thyme until the mushrooms are cooked through. ",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+          "ground beef",
+          "onion",
+          "carrots",
+          "peas",
+          "beef broth",
+          "tomato paste",
+          "Worcestershire sauce",
+          "garlic powder",
+          "mashed potatoes",
+          "butter",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 375°F. 2. In a pan, brown ground beef with chopped onion. 3. Add chopped carrots, peas, beef broth, tomato paste, Worcestershire sauce, and garlic powder. 4. Season with salt and pepper. 5. Simmer for 10 minutes until the vegetables are cooked through.",
+        "rating": 4.6
+      },
+      {
+        "recipe_name": "Lemon Herb Roast Chicken",
+        "ingredients": [
+          "whole chicken",
+          "lemon",
+          "garlic",
+          "thyme",
+          "rosemary",
+          "butter",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. 2. Rinse and pat dry the whole chicken. 3. Zest the lemon and mix it with minced garlic, chopped thyme, rosemary, softened butter, salt, and pepper. 4. Rub the lemon herb mixture under the chicken's skin and inside the cavity.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?b=1&s=170667a&w=0&k=20&c=Kn5CHqNaENC_X3SNRRQ1E3dnABmhKh8nUbVDdhtEZ4o=",
+    "chef_name": "Jane Doe",
+    "years_of_experience": 25,
+    "number_of_recipes": 80,
+    "likes": 150000,
+    "chef_bio": "Jane Doe is an English food writer, television personality, and cookbook author. She is known for her approachable, home-cooking style and her love of comfort food. Doe has written numerous bestselling cookbooks, including How to Eat and Nigella Bites, and has hosted several cooking shows, including Nigella Bites and Nigella Feasts.",
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Fudge Cake",
+        "ingredients": [
+          "butter",
+          "dark chocolate",
+          "brown sugar",
+          "eggs",
+          "vanilla extract",
+          "flour",
+          "baking powder",
+          "salt",
+          "milk",
+          "powdered sugar",
+          "cocoa powder"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Melt butter and dark chocolate together in a saucepan. 3. In a separate bowl, beat brown sugar, eggs, and vanilla extract until light and fluffy. 4. Combine flour, baking powder, and salt in another bowl. 5. Add the melted chocolate mixture to the egg mixture and mix well. ",
+        "rating": 4.7
+      },
+      {
+        "recipe_name": "Linguine with Clams",
+        "ingredients": [
+          "linguine",
+          "clams",
+          "butter",
+          "olive oil",
+          "garlic",
+          "red pepper flakes",
+          "parsley",
+          "lemon",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook linguine in a pot of salted boiling water until al dente. 2. Drain and reserve some of the pasta water. 3. In a pan, heat butter and olive oil over medium heat. 4. Add minced garlic and red pepper flakes and sauté until fragrant.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Sticky Toffee Pudding",
+        "ingredients": [
+          "dates",
+          "water",
+          "butter",
+          "brown sugar",
+          "eggs",
+          "flour",
+          "baking powder",
+          "vanilla extract",
+          "heavy cream",
+          "sugar"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. In a saucepan, simmer dates and water until the dates are soft and the water has been absorbed. 3. In a bowl, cream butter and brown sugar together. 4. Beat in eggs, one at a time. 5. In another bowl, mix flour and baking powder. 6. Add the flour mixture to the butter mixture and mix well.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://media.istockphoto.com/id/1341912104/photo/portrait-of-a-successful-chef-at-a-restaurant-with-arms-crossed.jpg?b=1&s=170667a&w=0&k=20&c=kCMSVa_iM3QQJVNz-j0OzvE4Em4rjsYIHxqFfSotEZw=",
+    "chef_name": "John Smith",
+    "years_of_experience": 20,
+    "number_of_recipes": 150,
+    "likes": 5000,
+    "chef_bio": "John Smith is a British chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
+    "recipes": [
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "garlic",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "1. Cook spaghetti in a large pot of boiling salted water. 2. In a separate pan, sauté pancetta and garlic until crisp. 3. In a small bowl, beat eggs and Parmesan cheese together. 4. Drain spaghetti and add it to the pancetta pan.",
+        "rating": 4.8
+      },
+      {
+        "recipe_name": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "garlic",
+          "soy sauce",
+          "cornstarch",
+          "brown sugar",
+          "sesame oil"
+        ],
+        "cooking_method": "1. Cut beef into thin slices and marinate in soy sauce, cornstarch, and sesame oil. 2. In a large pan, sauté garlic and broccoli until tender. 3. Remove broccoli from pan and add beef, cooking until browned. 4. Add brown sugar and soy sauce to the pan, stirring until the sauce thickens.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Classic Beef Lasagna",
+        "ingredients": [
+          "lasagna noodles",
+          "ground beef",
+          "onion",
+          "garlic",
+          "tomato sauce",
+          "cottage cheese",
+          "shredded mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Brown ground beef with onion and garlic in a large pan. 3. Add tomato sauce and simmer for 10 minutes. 4. In a separate bowl, mix together cottage cheese and shredded mozzarella cheese. 5. Preheat oven to 375°F.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://media.istockphoto.com/id/1389857295/photo/african-american-woman-bakers-looking-at-camera-chef-baker-in-a-chef-dress-and-hat-cooking.jpg?b=1&s=170667a&w=0&k=20&c=s8-SqB42J9Fmo1nmtk0vrOeJJTMijxy7ojZscL7d6pc=",
+    "chef_name": "Sarah Lee",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 2000,
+    "chef_bio": "Sarah Lee is a British chef, restaurateur, writer, and television personality. She has owned and operated several restaurants, including the renowned Restaurant Sarah Lee in London.Sarah has also hosted several cooking shows, including Hell's Kitchen and MasterChef, and has written numerous cookbooks.",
+    "recipes": [
+      {
+        "recipe_name": "Avocado Toast",
+        "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper"],
+        "cooking_method": "1. Toast bread. 2. Mash avocado in a bowl and mix in lemon juice, salt, and pepper. 3. Spread avocado mixture on toast and serve.",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Quinoa Salad",
+        "ingredients": [
+          "quinoa",
+          "cucumber",
+          "tomato",
+          "red onion",
+          "feta cheese",
+          "olive oil",
+          "lemon juice",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Cook quinoa according to package instructions. 2. Chop cucumber, tomato, and red onion. 3. In a separate bowl, mix together olive oil, lemon juice, salt, and pepper. 4. Combine cooked quinoa, vegetables, and feta cheese in a large bowl. 5. Toss with dressing and serve.",
+        "rating": 4.3
+      },
+      {
+        "recipe_name": "Roasted Chicken",
+        "ingredients": [
+          "chicken",
+          "lemon",
+          "garlic",
+          "rosemary",
+          "olive oil",
+          "salt",
+          "pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 425°F. 2. Rinse chicken and pat dry. 3. Cut lemon into wedges and stuff inside chicken. 4. Crush garlic cloves and mix with rosemary, olive oil, salt, and pepper. 5. Rub mixture all over chicken. 6. Roast in the oven for 1 hour or until the internal temperature reaches 165°F.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
