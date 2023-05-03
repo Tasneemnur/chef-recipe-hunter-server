@@ -9,6 +9,7 @@
     "chef_bio": "Jamie Oliver is a British chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
     "recipes": [
       {
+        "recipe_id": "100",
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
           "spaghetti",
@@ -21,6 +22,7 @@
         "rating": 4.5
       },
       {
+        "recipe_id": "200",
         "recipe_name": "Roast Chicken",
         "ingredients": [
           "whole chicken",
@@ -35,6 +37,7 @@
         "rating": 4.8
       },
       {
+        "recipe_id": "300",
         "recipe_name": "Fish and Chips",
         "ingredients": [
           "cod fillets",
@@ -60,6 +63,7 @@
     "chef_bio": "Nigella Lawson is a British food writer and TV personality known for her approachable and indulgent cooking style. She has written several bestselling cookbooks and hosted multiple cooking shows on TV. She is also an advocate for body positivity and has been vocal about her own struggles with body image.",
     "recipes": [
       {
+        "recipe_id": "400",
         "recipe_name": "Chocolate Fudge Cake",
         "ingredients": [
           "butter",
@@ -74,6 +78,7 @@
         "rating": 4.7
       },
       {
+        "recipe_id": "500",
         "recipe_name": "Lamb Shanks",
         "ingredients": [
           "lamb shanks",
@@ -93,6 +98,7 @@
         "rating": 4.9
       },
       {
+        "recipe_id": "600",
         "recipe_name": "Pasta with Clams",
         "ingredients": [
           "linguine",
@@ -120,6 +126,7 @@
     "chef_bio": "Gordon Rams ay is a British chef, restaurateur, writer, and television personality. He is known for his fiery temper and no-nonsense approach to cooking, which has earned him both praise and criticism.",
     "recipes": [
       {
+        "recipe_id": "700",
         "recipe_name": "Beef Wellington",
         "ingredients": [
           "beef tenderloin",
@@ -137,6 +144,7 @@
         "rating": 4.8
       },
       {
+        "recipe_id": "800",
         "recipe_name": "Shepherd's Pie",
         "ingredients": [
           "ground beef",
@@ -156,6 +164,7 @@
         "rating": 4.6
       },
       {
+        "recipe_id": "900",
         "recipe_name": "Lemon Herb Roast Chicken",
         "ingredients": [
           "whole chicken",
@@ -182,6 +191,7 @@
     "chef_bio": "Jane Doe is an English food writer, television personality, and cookbook author. She is known for her approachable, home-cooking style and her love of comfort food. Doe has written numerous bestselling cookbooks, including How to Eat and Nigella Bites, and has hosted several cooking shows, including Nigella Bites and Nigella Feasts.",
     "recipes": [
       {
+        "recipe_id": "1000",
         "recipe_name": "Chocolate Fudge Cake",
         "ingredients": [
           "butter",
@@ -200,6 +210,7 @@
         "rating": 4.7
       },
       {
+        "recipe_id": "1100",
         "recipe_name": "Linguine with Clams",
         "ingredients": [
           "linguine",
@@ -217,6 +228,7 @@
         "rating": 4.5
       },
       {
+        "recipe_id": "1200",
         "recipe_name": "Sticky Toffee Pudding",
         "ingredients": [
           "dates",
@@ -245,6 +257,7 @@
     "chef_bio": "John Smith is a British chef and restaurateur known for his approachable cuisine and campaigns for healthy eating. He has written several bestselling cookbooks and hosted multiple cooking shows on TV.",
     "recipes": [
       {
+        "recipe_id": "1300",
         "recipe_name": "Spaghetti Carbonara",
         "ingredients": [
           "spaghetti",
@@ -258,6 +271,7 @@
         "rating": 4.8
       },
       {
+        "recipe_id": "1400",
         "recipe_name": "Beef and Broccoli Stir Fry",
         "ingredients": [
           "beef sirloin",
@@ -272,6 +286,7 @@
         "rating": 4.5
       },
       {
+        "recipe_id": "1500",
         "recipe_name": "Classic Beef Lasagna",
         "ingredients": [
           "lasagna noodles",
@@ -297,12 +312,14 @@
     "chef_bio": "Sarah Lee is a British chef, restaurateur, writer, and television personality. She has owned and operated several restaurants, including the renowned Restaurant Sarah Lee in London.Sarah has also hosted several cooking shows, including Hell's Kitchen and MasterChef, and has written numerous cookbooks.",
     "recipes": [
       {
+        "recipe_id": "1600",
         "recipe_name": "Avocado Toast",
         "ingredients": ["bread", "avocado", "lemon juice", "salt", "pepper"],
         "cooking_method": "1. Toast bread. 2. Mash avocado in a bowl and mix in lemon juice, salt, and pepper. 3. Spread avocado mixture on toast and serve.",
         "rating": 4.5
       },
       {
+        "recipe_id": "1700",
         "recipe_name": "Quinoa Salad",
         "ingredients": [
           "quinoa",
@@ -319,6 +336,7 @@
         "rating": 4.3
       },
       {
+        "recipe_id": "1800",
         "recipe_name": "Roasted Chicken",
         "ingredients": [
           "chicken",
