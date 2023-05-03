@@ -19,7 +19,7 @@
           "black pepper"
         ],
         "cooking_method": "1. Cook spaghetti according to package instructions. 2. In a pan, cook chopped bacon until crispy. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the pan with the bacon.",
-        "rating": 4.5
+        "rating": 3.5
       },
       {
         "recipe_id": "200",
@@ -95,7 +95,7 @@
           "pepper"
         ],
         "cooking_method": "1. Preheat oven to 350°F. 2. Season lamb shanks with salt and pepper. 3. Heat oil in a Dutch oven and brown the lamb shanks on all sides. 4. Remove the lamb shanks and set aside. 5. Add chopped onions, carrots, celery, and garlic to the pot and cook until softened.",
-        "rating": 4.9
+        "rating": 3
       },
       {
         "recipe_id": "600",
@@ -112,7 +112,7 @@
           "pepper"
         ],
         "cooking_method": "1. Cook linguine according to package instructions. 2. In a pan, heat olive oil and add minced garlic and red pepper flakes. 3. Add cleaned clams to the pan and cook until they start to open.",
-        "rating": 4.5
+        "rating": 4
       }
     ]
   },
@@ -177,7 +177,7 @@
           "pepper"
         ],
         "cooking_method": "1. Preheat oven to 425°F. 2. Rinse and pat dry the whole chicken. 3. Zest the lemon and mix it with minced garlic, chopped thyme, rosemary, softened butter, salt, and pepper. 4. Rub the lemon herb mixture under the chicken's skin and inside the cavity.",
-        "rating": 4.9
+        "rating": 4
       }
     ]
   },
@@ -207,7 +207,7 @@
           "cocoa powder"
         ],
         "cooking_method": "1. Preheat oven to 350°F. 2. Melt butter and dark chocolate together in a saucepan. 3. In a separate bowl, beat brown sugar, eggs, and vanilla extract until light and fluffy. 4. Combine flour, baking powder, and salt in another bowl. 5. Add the melted chocolate mixture to the egg mixture and mix well. ",
-        "rating": 4.7
+        "rating": 4
       },
       {
         "recipe_id": "1100",
@@ -243,7 +243,7 @@
           "sugar"
         ],
         "cooking_method": "1. Preheat oven to 350°F. 2. In a saucepan, simmer dates and water until the dates are soft and the water has been absorbed. 3. In a bowl, cream butter and brown sugar together. 4. Beat in eggs, one at a time. 5. In another bowl, mix flour and baking powder. 6. Add the flour mixture to the butter mixture and mix well.",
-        "rating": 4.8
+        "rating": 3.8
       }
     ]
   },
@@ -298,7 +298,7 @@
           "shredded mozzarella cheese"
         ],
         "cooking_method": "1. Cook lasagna noodles according to package instructions. 2. Brown ground beef with onion and garlic in a large pan. 3. Add tomato sauce and simmer for 10 minutes. 4. In a separate bowl, mix together cottage cheese and shredded mozzarella cheese. 5. Preheat oven to 375°F.",
-        "rating": 4.7
+        "rating": 4.2
       }
     ]
   },
@@ -348,7 +348,7 @@
           "pepper"
         ],
         "cooking_method": "1. Preheat oven to 425°F. 2. Rinse chicken and pat dry. 3. Cut lemon into wedges and stuff inside chicken. 4. Crush garlic cloves and mix with rosemary, olive oil, salt, and pepper. 5. Rub mixture all over chicken. 6. Roast in the oven for 1 hour or until the internal temperature reaches 165°F.",
-        "rating": 4.7
+        "rating": 3
       }
     ]
   }

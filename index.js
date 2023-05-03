@@ -6,7 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors())
 const chefs = require('./data/chefs.json')
 app.get("/", (req, res)=>{
-res.send("server is running")
+res.send("This is the Backend server")
 });
 
 app.get("/chefs", (req, res)=>{
